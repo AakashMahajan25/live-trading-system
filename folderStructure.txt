@@ -1,0 +1,26 @@
+.
+|-- LICENSE
+|-- README.md
+|-- auth
+|   |-- __init__.py
+|   |-- admin.py
+|   |-- apps.py
+|   |-- migrations
+|   |   `-- __init__.py
+|   |-- models.py
+|   |-- serializers.py
+|   |-- tests.py
+|   `-- views.py
+|-- db.sqlite3
+|-- folderStructure.txt
+|-- livetradingsystem
+|   |-- __init__.py
+|   |-- __pycache__
+|   |   |-- __init__.cpython-313.pyc
+|   |   |-- settings.cpython-313.pyc
+|   |   `-- urls.cpython-313.pyc
+|   |-- asgi.py
+|   |-- settings.py
+|   |-- urls.py
+|   `-- wsgi.py
+|-- manage.py
